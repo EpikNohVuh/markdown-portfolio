@@ -15,7 +15,9 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
-
+- cats
+- dogs
+- fish
 <br>
 
 {% include 05-emphasis.md %}
